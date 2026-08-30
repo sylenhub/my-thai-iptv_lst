@@ -1,0 +1,6 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="thaipbs" tvg-name="Thai PBS" tvg-logo="https://logo-url.png" group-title="Thailand",Thai PBS
+https://example.com/thaipbs/stream.m3u8
+
+#EXTINF:-1 tvg-id="news1" tvg-name="News1" group-title="Thailand",News1
+https://tvexplorer.live/channel/News1.th.SD/country/TH
